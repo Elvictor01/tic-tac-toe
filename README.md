@@ -1,4 +1,4 @@
-##Tic-Tac-toe
+## Tic-Tac-toe
 
 
 A tic-tac-toe game built with ReactJS: with the functionality to store the previous moves of the players(history)
